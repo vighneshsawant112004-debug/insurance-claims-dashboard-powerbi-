@@ -1,12 +1,12 @@
-#  Insurance Claims Dashboard (Power BI)
+# Insurance Claims Dashboard 
 
-This project features two interactive dashboards built in Power BI to analyze insurance claims data across U.S. states, time periods, gender, and vehicle age. Designed for business storytelling, fraud detection, and recruiter visibility.
+This repository showcases two interactive Power BI dashboards built to analyze insurance claims data across states, time periods, gender, and vehicle age. Designed for business impact and recruiter visibility.
 
 ##  Dashboards Included
 
 ### 1. Insurance Claims Overview
-- Total claims, claim amount, injury & fraud ratios
-- State-wise claim volume and payout
+- Total Claims, Claim Amount, Injury & Fraud Ratios
+- State-wise claim volume and value
 - Seasonal distribution by quarter
 
 ### 2. Incident Analysis by Time, Gender & Vehicle Age
@@ -14,22 +14,30 @@ This project features two interactive dashboards built in Power BI to analyze in
 - Gender-based claim distribution
 - Vehicle age vs incident count
 
-##  Why This Project Matters
-- Highlights business impact and fraud patterns
-- Demonstrates ethical data sourcing and technical polish
-- Built for clarity, performance, and recruiter engagement
+##  Folder Structure
+
+- `dashboards/`: Contains dashboard screenshots
+- `data/`: Sample dataset used for building dashboards
+- `assets/`: Optional icons or thumbnails
+- `README.md`: Project overview and instructions
 
 ##  Tools Used
+
 - Power BI
 - Excel (for preprocessing)
 - Public insurance claims dataset
 
-## 📁 Structure
-- `dashboards/`: Screenshots of dashboards
-- `data/`: Sample dataset
-- `README.md`: Project overview
-- `LICENSE`: MIT License
+## Features
 
+- Clean, recruiter-friendly visuals
+- Ethical data sourcing and licensing
+- Optimized for storytelling and business impact
+
+##  License
+
+This project is licensed under the MIT License. Feel free to fork, adapt, and showcase your own dashboards!
 
 ---
+
+
 
