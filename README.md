@@ -1,6 +1,6 @@
 # Insurance Claims Dashboard 
 
-This repository showcases two interactive Power BI dashboards built to analyze insurance claims data across states, time periods, gender, and vehicle age. Designed for business impact and recruiter visibility.
+**Interactive Power BI dashboards uncovering fraud, severity, and customer behavior insights in insurance claims.**
 
 ## Short Preview
 
