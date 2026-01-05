@@ -40,6 +40,8 @@ This repository showcases two interactive Power BI dashboards built to analyze i
 
 This project is licensed under the MIT License. Feel free to fork, adapt, and showcase your own dashboards!
 
+**Made with ❤️ by Vighnesh**
+
 ---
 
 
